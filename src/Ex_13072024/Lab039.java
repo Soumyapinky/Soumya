@@ -1,6 +1,6 @@
 package Ex_13072024;
 
-public class Lab39 {
+public class Lab039 {
     public static void main(String[] args) {
         String firstname = "PRAMOD";
         String lastname = "DUTTA";
